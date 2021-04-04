@@ -1,3 +1,5 @@
+this app was build using node.js with express, uuid, and nodemon
+
 # for create this project we need to follow these steps:
 1. npm init -y // to inizialize node module package
 2. npm install express --save // to install express library
