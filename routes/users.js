@@ -2,7 +2,7 @@ import express, { Router } from 'express'; // import express and router from exp
 
 import { getUsers, createUser, getUser, deleteUser, updateUser } from '../controllers/users.js'
 
-const router = express.Router(); // create a router variable that call expess and router method
+const router = express.Router(); // create a router variable that call express and router method
 
 
 //all routes in here are starting with /users
